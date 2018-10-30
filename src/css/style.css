@@ -1,0 +1,47 @@
+.navbar {
+    background: #000;
+}
+
+.nav-item {
+    padding-left: 1em;
+}
+
+.nav-link {
+    text-transform: uppercase;
+}
+
+.carousel-item {
+    height: 450px;
+}
+
+.carousel-img-1 {
+    background: url(../img/image1.jpeg);
+    background-size: cover;
+}
+
+.carousel-img-2 {
+    background: url(../img/image2.jpeg);
+    background-size: cover;
+}
+
+.carousel-img-3 {
+    background: url(../img/image3.jpeg);
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 767px) {
+    .nav-item {
+        padding-left: 0 !important;
+    }
+}
