@@ -43,6 +43,11 @@
     <!-- CAROUSEL SLIDER -->
     <section id="showcase" class="bg-dark">
         <div id="myCarousel" class="carousel slid" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-slide-to="0" data-target="#myCarousel" class="active"></li>
+                <li data-slide-to="1" data-target="#myCarousel"></li>
+                <li data-slide-to="2" data-target="#myCarousel"></li>
+            </ol>
             <div class="carousel-inner">
                 <div class="carousel-item carousel-img-1 active">
                     <div class="container">
@@ -74,6 +79,12 @@
                     </div>
                 </div>
             </div>
+            <a href="#myCarousel" class="carousel-control-prev" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a href="#myCarousel" class="carousel-control-next" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
         </div>
     </section>
 
