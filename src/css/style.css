@@ -114,6 +114,13 @@
     background-attachment: fixed;
 }
 
+#contact-page-header {
+    background: url('../img/image1.jpeg');
+    background-size: cover;
+    height: 200px;
+    background-attachment: fixed;
+}
+
 
 
 
