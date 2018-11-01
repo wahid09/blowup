@@ -107,6 +107,13 @@
     background-attachment: fixed;
 }
 
+#blog-page-header {
+    background: url('../img/image6.jpeg');
+    background-size: cover;
+    height: 200px;
+    background-attachment: fixed;
+}
+
 
 
 
