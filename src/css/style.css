@@ -83,6 +83,23 @@
     color: white;
 }
 
+#page-header {
+    background: url('../img/image2.jpeg');
+    background-size: cover;
+    height: 200px;
+    background-attachment: fixed;
+}
+
+#icon-box .fa {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+#testimonial .slick-prev::before,
+.slick-next::before {
+    color: #000;
+}
+
 
 
 
