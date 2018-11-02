@@ -121,6 +121,13 @@
     background-attachment: fixed;
 }
 
+.contact-info ul li {
+    list-style: none;
+    font-size: 14px;
+    color: #787878;
+    line-height: 34px;
+}
+
 
 
 
